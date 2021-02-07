@@ -1,0 +1,56 @@
+
+body {
+    background-image: url("img_tree.gif"), url("paper.gif");
+    background-color: #cccccc;
+  }
+
+
+
+h1 {
+    border: 5px solid orange;
+	color: darkblue;
+	font-family: roboto;
+	text-align: center;
+}
+H3{display: block;}
+
+H2 {
+    height: 50px;
+    width: 300px;
+  }
+
+  .card-text{text-align: center;}
+
+  
+
+
+
+.img {
+    margin: 0 auto;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+}
+.link{
+    display: flex;
+justify-content: center;}
+
+.txt{border: 5px solid orange;;
+	color: darkblue;
+	font-family: roboto;
+    text-align: center;}
+    
+    .test{  width: 300px;
+        height: 175px;
+        border: 1px solid red;
+        display: inline-block;}
+    
+
+        .jt{display: flex;
+            justify-content: space-around;
+        }
+        .video{display: flex;
+        justify-content: flex-end;
+    }
